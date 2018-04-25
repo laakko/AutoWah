@@ -9,4 +9,5 @@ is controlled by an envelope follower.
 The provided .dll file is a 32 bit VST-plugin which can be used with most DAWs (Audacity, Reaper, etc.)
 
 A screenshot of the Auto-Wah plugin:
-![Screenshot](https://gitlab.com/Laakko/AutoWah-AudioPlugin/blob/master/autowah.PNG)
+
+![sc](/autowah.PNG)
